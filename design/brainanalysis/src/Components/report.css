@@ -1,0 +1,41 @@
+/* Apply to each letter */
+.letter {
+    color: white;
+    animation: changecolor 7s infinite;
+}
+
+/* Animation timing for each specific letter */
+.O {
+    animation-delay: 0s;
+}
+.C {
+    animation-delay: 1s;
+}
+.E {
+    animation-delay: 2s;
+}
+.A {
+    animation-delay: 3s;
+}
+.N {
+    animation-delay: 4s;
+}
+
+@keyframes changecolor {
+    0% {
+        color: white;
+    }
+    40% {
+        color: #ef4444;
+    }
+    60% {
+        color: #0ea5e9;
+    }
+    80% {
+        color: #22c55e;
+    }
+    100%{
+        color: white;
+    }
+
+}
