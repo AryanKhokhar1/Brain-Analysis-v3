@@ -50,7 +50,7 @@ export function Report() {
                                                     index === 4 ? "bg-purple-500" :
                                                         "text-black"
                                         }`}></div>&nbsp;&nbsp;
-                                    <h2 className={`font-semibold text-2xl ${index === 0 ? "text-blue-500" :
+                                    <h2 className={`font-semibold text-2xl ${index === 0 ? "text-blue-500" : 
                                         index === 1 ? "text-green-500" :
                                             index === 2 ? "text-red-500" :
                                                 index === 3 ? "text-stone-500" :

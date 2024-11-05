@@ -1,4 +1,5 @@
 import React from "react";
+import image1 from "./img/newfeedbackdesign.png";
 
 export function Feedback(){
     return(
@@ -8,7 +9,7 @@ export function Feedback(){
                 <div className="opacity-75 self-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi voluptatum dicta amet quaerat temporibus,<br/> consectetur illo quasi quo sequi expedita excepturi magni inventore asperiores laudantium.</div>
             </div>
 
-            <div className="grid grid-cols-[3fr_2fr] mx-28  rounded-3xl px-24 py-3" style={{background: "#f2f2f3"}}>
+            <div className="grid grid-cols-[3fr_2fr] mx-28  rounded-3xl pl-24 py-3 " style={{background: "#f2f2f3"}}>
                     <form action="" method="post">
                         <label htmlFor="name" className="flex flex-col text-xl pt-10 opacity-80">Name* 
                             <input className=" border border-stone-700 w-[60%] rounded-lg py-2 mt-2" type="text" name="name" id="name" />
@@ -20,9 +21,11 @@ export function Feedback(){
                             {/* <input className=" border border-stone-700 w-[60%] rounded-lg py-2 mt-2 h-48" type="text" name="message" id="message" /> */}
                             <textarea className=" border border-stone-700 w-[60%] rounded-lg py-2 mt-2 h-48"></textarea>
                         </label>
-                        <button type="submit" className="w-[60%] bg-black text-white rounded-2xl py-4 mt-10 mb-10">Send Message</button>
+                        <button type="submit" className="w-[60%] bg-black text-white rounded-2xl py-4 mt-10 mb-20">Send Message</button>
                     </form>
-                <div className="border border-black">2</div>
+                <div className="flex justify-end h-full w-full pr-10">
+                    <img src={image1} alt="img" className="h-full" />
+                </div>
             </div>
         </>
     );
