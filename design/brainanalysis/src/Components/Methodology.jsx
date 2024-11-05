@@ -9,7 +9,9 @@ export function Methodology(){
     return(
         <>
         <div className="pt-16">
-            <div className=" w-fit pl-28"><h2 className="bg-green-400 text-[3vw] font-semibold flex px-3 rounded-2xl opacity-80">Working
+            <div className=" w-fit pl-28"><h2 style={{ backgroundColor: '#5D99C3' }}className="bg-blue-400 text-[3vw] font-semibold flex px-3 rounded-2xl "><span className="opacity-80">
+                Working
+                </span>
                 <FaRegLightbulb className=" self-center "/></h2></div>
         </div>
         <div className="flex w-full grid  grid-cols-[1fr_2fr_1fr]  px-28 pt-14">
