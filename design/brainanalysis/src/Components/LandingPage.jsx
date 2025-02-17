@@ -1,5 +1,5 @@
 import React from "react";
-
+import { NavLink } from "react-router-dom";
 export function Landingpage() {
     return (
         <>
@@ -18,7 +18,11 @@ export function Landingpage() {
                         </div>
                     </div>
                     <p className="pl-28 pt-7 py-5 pr-10 opacity-75 ">Lorem ipsum dolor sit, amet consectetur adipisicing elit. In eligendi delectus minus reiciendis beatae, a at similique odio ut eum ab tempora officiis consectetur alias quasi, sequi vitae accusamus corrupti dolore, expedita voluptatibus eveniet libero!</p>
-                    <button className="border ml-64 my-4 text-white bg-black rounded-xl py-3 px-14 hover:text-black hover:bg-transparent hover:border-black">Take Test</button>
+                    <button className="border ml-64 my-4 text-white bg-black rounded-xl py-3 px-14 hover:text-black hover:bg-transparent hover:border-black">
+                        <NavLink to="/question">
+                            Take Test
+                            </NavLink> 
+                            </button>
                 </div>
                 <div className="box2  h-full"></div>
             </div>

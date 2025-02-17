@@ -5,9 +5,10 @@ import { FaInstagramSquare } from "react-icons/fa";
 import { FaSquareXTwitter } from "react-icons/fa6";
 import { SiLeetcode } from "react-icons/si";
 import founderimg  from "./img/founder.jpeg";
+import { Element } from "react-scroll";
 export function Founder() {
     return (
-        <>
+        <Element name="founder">
             <div className="pt-10 pl-28 flex gap-8">
                 <h2 className="text-[3vw] bg-red-400 rounded-2xl px-3 w-fit opacity-80 font-medium">Founder</h2>
                 <div className="self-center opacity-75">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis corrupti pariatur dicta exercitationem non fugiat <br />expedita optio magni, ipsa esse? Temporibus vero ipsam asperiores deleniti.</div>
@@ -35,6 +36,6 @@ export function Founder() {
                     </div>
                 </div>
             </div>
-        </>
+        </Element>
     );
 }

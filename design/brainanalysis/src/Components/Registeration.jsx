@@ -1,6 +1,6 @@
 import React from "react";
 import { FaGoogle, FaGithub, FaFacebook } from "react-icons/fa";
-
+import {Link} from "react-router-dom";
 export function Registeration() {
     return (
         <>
@@ -28,7 +28,7 @@ export function Registeration() {
                             <div className="px-4 text-3xl opacity-80"><FaGithub /></div>
                             <div className="px-4 text-3xl opacity-80"><FaFacebook /></div>
                         </div>
-                        <div className="flex justify-center opacity-75 text-sm pb-10">Already have an account? <a href="" className="font-bold">Login</a></div>
+                        <div className="flex justify-center opacity-75 text-sm pb-10">Already have an account? <Link to="/login" className="font-bold">Login</Link></div>
                     </div>
                 </div>
             </div>
