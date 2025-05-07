@@ -136,9 +136,4 @@ Got questions or want to collaborate?
 
 > NeuroPersona – Because understanding your mind is the first step to mastering your future.
 
-```
 
----
-
-Let me know if you'd like me to tailor the README with your name, email, logo, or if you're planning to publish it to a domain.
-```
