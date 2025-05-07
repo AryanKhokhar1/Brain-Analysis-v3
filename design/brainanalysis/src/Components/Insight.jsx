@@ -50,8 +50,8 @@ export function Insight() {
 
                     <div className="flex gap-8 py-14 items-center">
                         <div className="opacity-80">
-                            <h2 className="text-[3vw] px-3 w-fit bg-blue-500 text-white font-semibold ">Strenth & Weakness: </h2></div>
-                        <div className="opacity-70">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Natus dolore quibusdam nostrum! Illum tempora ex exercitationem <br></br> facere odio laudantium dolores ad repellendus aliquam delectus quisquam quaerat, architecto excepturi rem animi.</div>
+                            <h2 className="text-[3vw] px-3 w-fit bg-blue-500 text-white font-semibold ">Strength & Weakness: </h2></div>
+                        <div className="opacity-70">This chart highlights your key strengths and areas for improvement based on your recent assessment. Positive scores indicate traits where you naturally excel,<br /> while negative scores suggest aspects that may benefit from further development.</div>
                     </div>
                     <Facets openness={fullgraph} />
                     <div className="flex w-full mt-10">

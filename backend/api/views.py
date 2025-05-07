@@ -1,9 +1,8 @@
-from django.shortcuts import render,HttpResponse
+from django.shortcuts import render
 from rest_framework.views import APIView
+from rest_framework.response import Response
+
 # Create your views here.
-
-class MyAPIView(APIView):
-
-    def get(request):
-        return HttpResponse("It's GET Response")
-    
+class Home(APIView):
+    def get(self, request):
+        return Response({"message":"Hii, Aryan"})

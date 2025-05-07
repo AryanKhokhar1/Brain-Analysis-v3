@@ -11,6 +11,7 @@ import Result from "./pages/Result";
 import Register from "./pages/Register";
 import Insights from "./pages/Insights";
 import LoginP from "./pages/LoginP";
+import HelloWorld from "./pages/HelloWorld";
 
 function App() {
     return (
@@ -23,8 +24,7 @@ function App() {
                 <Route path="register/" exact Component={()=> <Register />}/>
                 {/* <Route path="check/" exact Component={()=> <Check />}/> */}
                 <Route path="insights/" exact Component={()=> <Insights />}/>
-
-
+                <Route path="check/" exact Component={()=> <HelloWorld/>} />
             </Routes>
         </Router>
     );

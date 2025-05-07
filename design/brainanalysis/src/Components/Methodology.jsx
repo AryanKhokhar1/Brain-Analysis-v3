@@ -7,7 +7,7 @@ import engineer from "./img/engineer.png";
 import { Element } from "react-scroll";
 export function Methodology(){
     return(
-        <Element name="methodology">
+        <Element name="methodology" id="methodology">
         <div className="pt-16">
             <div className=" w-fit pl-28"><h2 style={{ backgroundColor: '#5D99C3' }}className="bg-blue-400 text-[3vw] font-semibold flex px-3 rounded-2xl "><span className="opacity-80">
                 Working

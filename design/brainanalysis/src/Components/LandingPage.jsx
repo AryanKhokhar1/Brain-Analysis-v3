@@ -17,7 +17,7 @@ export function Landingpage() {
                             <h2>EVOLVE</h2>
                         </div>
                     </div>
-                    <p className="pl-28 pt-7 py-5 pr-10 opacity-75 ">Lorem ipsum dolor sit, amet consectetur adipisicing elit. In eligendi delectus minus reiciendis beatae, a at similique odio ut eum ab tempora officiis consectetur alias quasi, sequi vitae accusamus corrupti dolore, expedita voluptatibus eveniet libero!</p>
+                    <p className="pl-28 pt-7 py-5 pr-10 opacity-75 ">You are more than your habits. Explore your personality, evaluate your potential, and evolve with intention. Let BrainAnalysis reveal the roadmap to your personal and professional growth</p>
                     <button className="border ml-64 my-4 text-white bg-black rounded-xl py-3 px-14 hover:text-black hover:bg-transparent hover:border-black">
                         <NavLink to="/question">
                             Take Test

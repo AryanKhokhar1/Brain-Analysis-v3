@@ -8,10 +8,10 @@ import founderimg  from "./img/founder.jpeg";
 import { Element } from "react-scroll";
 export function Founder() {
     return (
-        <Element name="founder">
+        <Element name="founder" id="founder">
             <div className="pt-10 pl-28 flex gap-8">
                 <h2 className="text-[3vw] bg-red-400 rounded-2xl px-3 w-fit opacity-80 font-medium">Founder</h2>
-                <div className="self-center opacity-75">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis corrupti pariatur dicta exercitationem non fugiat <br />expedita optio magni, ipsa esse? Temporibus vero ipsam asperiores deleniti.</div>
+                <div className="self-center opacity-75">Meet the creator behind BrainAnalysis — a tech enthusiast who blends psychology and development <br />to create tools that help people grow smarter and stronger.</div>
             </div>
 
             <div className="flex my-14 mx-28 grid grid-cols-[2fr_5fr] gap-8">
@@ -31,8 +31,8 @@ export function Founder() {
                         <div className="name"> <span className="font-semibold">Founder:</span> <span className="opacity-75">Aryan Khokhar</span></div>
                         <div><span className="font-semibold">Role:</span> <span className="opacity-75">Founder & Developer</span></div>
                         <div><span className="font-semibold">Technology Used:</span> <span className="opacity-75">React Js, Vite, Tailwind Css, Django, Django Rest FrameWork </span></div>
-                        <div><span className="font-semibold">About:</span><span className="opacity-75">
-                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nostrum velit repellendus unde tempora quaerat distinctio neque eum, ex nihil error doloribus eos recusandae aliquid. Qui iure velit vitae corporis inventore maxime doloremque, dolore ab in quod enim tenetur fugit assumenda veniam eaque ducimus magnam voluptas adipisci. Quam totam corrupti itaque.</span></div>
+                        <div><span className="font-semibold">About: </span><span className="opacity-75">
+                         Aryan is a self-taught full-stack developer passionate about using tech to solve real human problems. He built BrainAnalysis to empower users through psychological insight and clean, scalable code. His mission is to simplify self-understanding with beautiful interfaces and smart logic.</span></div>
                     </div>
                 </div>
             </div>

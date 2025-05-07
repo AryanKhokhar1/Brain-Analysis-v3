@@ -6,7 +6,7 @@ export function Feedback(){
         <>
             <div className="pl-28 flex gap-8 py-14">
                 <h2 className="text-[3vw] font-medium bg-stone-800 w-fit px-3  rounded-2xl opacity-80" style={{background: "#f2f2f3"}}>Contact Us</h2>
-                <div className="opacity-75 self-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi voluptatum dicta amet quaerat temporibus,<br/> consectetur illo quasi quo sequi expedita excepturi magni inventore asperiores laudantium.</div>
+                <div className="opacity-75 self-center">We’d love to hear from you! Whether you have a question, feedback, <br /> or just want to say hello, drop us a message. We’ll get back to you as soon as possible.</div>
             </div>
 
             <div className="grid grid-cols-[3fr_2fr] mx-28  rounded-3xl pl-24 py-3 " style={{background: "#f2f2f3"}}>

@@ -12,9 +12,10 @@
   "dependencies": {
     "@canvasjs/charts": "^3.10.13",
     "@canvasjs/react-charts": "^1.0.2",
-    "axios": "^1.7.7",
+    "axios": "^1.8.4",
     "bootstrap": "^5.3.3",
     "history": "^5.3.0",
+    "html2pdf.js": "^0.10.3",
     "jquery": "^3.7.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
