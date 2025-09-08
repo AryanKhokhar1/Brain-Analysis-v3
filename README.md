@@ -30,20 +30,18 @@
 - Scikit-learn (KMeans clustering)
 - SQLite (or your choice of DB)
 
-## 📂 Project Structure
+## Project Overview
+
+![Home page](/home/aryan-khokhar/Pictures/Screenshots/Home%20Page.png)
+![OCEAN Principle](/home/aryan-khokhar/Pictures/Screenshots/OCEAN%20principle.png)
+![Founder](/home/aryan-khokhar/Pictures/Screenshots/Benefits%20and%20Founder.png)
+![Contact](/home/aryan-khokhar/Pictures/Screenshots/Contact%20Us.png)
+![Result](/home/aryan-khokhar/Pictures/Screenshots/ResultPage.png)
+![SignUp](/home/aryan-khokhar/Pictures/Screenshots/Signup.png)
+![Login](/home/aryan-khokhar/Pictures/Screenshots/Login.png)
 
 
-BrainAnalysisv3/
-├── backend/
-│   ├── neuro\_api/
-│   ├── manage.py
-│   └── ...
-├── frontend/
-│   ├── src/
-│   ├── index.html
-│   └── ...
-├── README.md
-└── requirements.txt
+
 
 
 
