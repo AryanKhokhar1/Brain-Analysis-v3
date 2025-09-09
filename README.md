@@ -16,7 +16,7 @@
 - Secure architecture with API integration
 - Fast and responsive UI
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Frontend**:
 - React.js (Vite)
@@ -31,6 +31,7 @@
 - SQLite (or your choice of DB)
 
 ## Project Overview
+
 
 ![Home page](/home/aryan-khokhar/Pictures/Screenshots/Home%20Page.png)
 ![OCEAN Principle](/home/aryan-khokhar/Pictures/Screenshots/OCEAN%20principle.png)
