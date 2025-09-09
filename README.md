@@ -98,7 +98,7 @@ We welcome PRs and new ideas!
 git clone https://github.com/yourusername/BrainAnalysisv3.git
 ```
 
-Please submit issues, bug reports, or suggestions in the [Issues](https://github.com/yourusername/BrainAnalysisv3/issues) section.
+Please submit issues, bug reports, or suggestions in the [Issues](https://github.com/AryanKhokhar1/Brain-Analysis-v3/issues) section.
 
 ## License
 
