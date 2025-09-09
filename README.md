@@ -32,19 +32,14 @@
 
 ## Project Overview
 
-
-![Home page](/home/aryan-khokhar/Pictures/Screenshots/Home%20Page.png)
-![OCEAN Principle](/home/aryan-khokhar/Pictures/Screenshots/OCEAN%20principle.png)
-![Founder](/home/aryan-khokhar/Pictures/Screenshots/Benefits%20and%20Founder.png)
-![Contact](/home/aryan-khokhar/Pictures/Screenshots/Contact%20Us.png)
-![Result](/home/aryan-khokhar/Pictures/Screenshots/ResultPage.png)
-![SignUp](/home/aryan-khokhar/Pictures/Screenshots/Signup.png)
-![Login](/home/aryan-khokhar/Pictures/Screenshots/Login.png)
-
-
-
-
-
+<img width="1839" height="960" alt="Home Page" src="https://github.com/user-attachments/assets/c686b741-a75d-4010-9458-f60cbf7adf3e" />
+<img width="1839" height="960" alt="OCEAN Principle" src="https://github.com/user-attachments/assets/22599184-1523-48bf-a7ea-06e3887e4411" />
+<img width="1839" height="960" alt="Benefits and Founder" src="https://github.com/user-attachments/assets/cbdeaf6e-4d15-44bc-b12a-05f3b3ea34ed" />
+<img width="1839" height="960" alt="Contact us" src="https://github.com/user-attachments/assets/229a6fda-763b-41eb-bc5b-c2e5908734bf" />
+<img width="1839" height="960" alt="ResultPage" src="https://github.com/user-attachments/assets/3901fa5f-de56-4a5a-af53-1e53e75b4b23" />
+<img width="1839" height="960" alt="Signup" src="https://github.com/user-attachments/assets/ce89077c-0ac7-4893-bac8-fdbc57940d2f" />
+<img width="1839" height="960" alt="Login" src="https://github.com/user-attachments/assets/002880a9-3489-40c9-9369-198df494b955" />
+<img width="1423" height="671" alt="Screenshot from 2025-09-08 14-53-29" src="https://github.com/user-attachments/assets/2b9c72d3-fb18-4789-a7a1-126a75479976" />
 
 ## Installation & Setup
 
@@ -85,7 +80,7 @@ We use the scientifically validated **Big Five** personality model (OCEAN) to sp
 
 ## Dataset
 
-The clustering model is trained on synthetic or anonymized personality response data to identify patterns across professions and personal growth metrics.
+The clustering model is trained on synthetic or anonymized personality response data to identify patterns across professions and personal growth metrics. Here is the page from where data [Dataset](https://www.kaggle.com/datasets/utkarshshrivastav07/career-prediction-dataset/data) has been used.
 
 
 
